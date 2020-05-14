@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ringpiwebsite-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ringpiwebsite-react/static/js/main.b18bb6b6.chunk.js",
+    "main.js.map": "/ringpiwebsite-react/static/js/main.b18bb6b6.chunk.js.map",
+    "runtime-main.js": "/ringpiwebsite-react/static/js/runtime-main.ef73f3d2.js",
+    "runtime-main.js.map": "/ringpiwebsite-react/static/js/runtime-main.ef73f3d2.js.map",
+    "static/js/2.9ce0847a.chunk.js": "/ringpiwebsite-react/static/js/2.9ce0847a.chunk.js",
+    "static/js/2.9ce0847a.chunk.js.map": "/ringpiwebsite-react/static/js/2.9ce0847a.chunk.js.map",
+    "index.html": "/ringpiwebsite-react/index.html",
+    "precache-manifest.dcf350bc520e835318acc67c95c69998.js": "/ringpiwebsite-react/precache-manifest.dcf350bc520e835318acc67c95c69998.js",
+    "service-worker.js": "/ringpiwebsite-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ringpiwebsite-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9ce0847a.chunk.js.LICENSE.txt": "/ringpiwebsite-react/static/js/2.9ce0847a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ringpiwebsite-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef73f3d2.js",
+    "static/js/2.9ce0847a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b18bb6b6.chunk.js"
+  ]
+}
